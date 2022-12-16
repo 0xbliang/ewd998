@@ -1,0 +1,24 @@
+For rendering diagram
+
+```bash
+sudo apt update && sudo apt install graphviz
+```
+
+Check model option parameters:
+
+```
+-deadlock -noTE -dump dot diagram-out
+```
+
+Tool: 
+- ShiViz: space time sequence diagram, for visualizing TLA+ trace output
+
+Syntax
+`<>`: eventually
+
+References:
+- https://learntla.com/index.html
+- https://github.com/tlaplus/azure-cosmos-tla
+- https://github.com/tlaplus/Examples
+    - Towers of Hanoi, etc.
+    - EWD998Chan.tla
