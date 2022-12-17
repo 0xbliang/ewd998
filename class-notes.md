@@ -15,6 +15,8 @@ Tool:
 
 Syntax
 `<>`: eventually
+`[]`: always true (for every state)
+`<>[]`: eventually gets into terminal state
 
 References:
 - https://learntla.com/index.html
