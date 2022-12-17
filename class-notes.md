@@ -19,6 +19,9 @@ Syntax
 `<>[]`: eventually gets into terminal state
 
 References:
+- https://lamport.azurewebsites.net/tla/tla.html
+- https://lamport.azurewebsites.net/video/intro.html
+- https://www.amazon.science/publications/how-amazon-web-services-uses-formal-methods
 - https://learntla.com/index.html
 - https://github.com/tlaplus/azure-cosmos-tla
 - https://github.com/tlaplus/Examples
